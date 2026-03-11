@@ -1,0 +1,5 @@
+{
+  "name": "Hospital HR Management System",
+  "description": "A full-stack system for managing hospital staff, departments, and recruitment with session-based authentication.",
+  "requestFramePermissions": []
+}
